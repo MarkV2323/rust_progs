@@ -1,3 +1,7 @@
+# Custom Options to ignore
+.vscode/
+build/
+
 # Prerequisites
 *.d
 
